@@ -1,7 +1,7 @@
-a=input("enter the value")
+a=input()
     if(a>1):
-         print"positive",a%100
+         print"positive"
     elif(a==0):
              print("0")
     else:
-             print("negatIVe")
+             print("negative")
